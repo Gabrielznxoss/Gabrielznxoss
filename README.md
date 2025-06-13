@@ -1,35 +1,13 @@
-Oba, bebam Água
+# 👩🏻‍💻 Gabriel Rodrigues
+
+**`Desenvolvedora FullStack`**
+
+Me chamo João Gabriel Rodrigues, tenho 17 anos e sou natural de Estância. Estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[GabrielDenv](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[gabrielrdst](https://www.instagram.com/gabrielrdsnt/)".
 
 
- <div style="display: inline_block"><br>
+---
 
-
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://git
-
-
- <div> 
-
-  <a href="https://www.instagram.com/gabrielrdsnt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel19rodrigues.71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
-</div>
-  
-  
-
-
-
-
- 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -146,3 +124,23 @@ Oba, bebam Água
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
