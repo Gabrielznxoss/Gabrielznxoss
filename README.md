@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo João Gabriel Rodrigues, tenho 17 anos e sou natural de Estância. Estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[GabrielDenv](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[gabrielrdst](https://www.instagram.com/gabrielrdsnt/)".
+Me chamo João Gabriel Rodrigues, tenho 17 anos e sou natural de Estância. Estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia. me siga também Instagram, com o perfil chamado "[gabrielrdst](https://www.instagram.com/gabrielrdsnt/)".
 
 
 ---
